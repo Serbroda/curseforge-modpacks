@@ -1,0 +1,106 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-10-09 17:46:45 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "dune_beach": "2024-10-09 17:46:46 +0200",
+      "jacaranda_glade": "2024-10-09 17:46:50 +0200"
+    },
+    "done": false
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "dune_beach": "2024-10-09 17:46:46 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_slab": {
+    "criteria": {
+      "has_planks": "2024-10-09 17:55:29 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/jacaranda_fence": {
+    "criteria": {
+      "has_planks": "2024-10-09 17:55:29 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_button": {
+    "criteria": {
+      "has_planks": "2024-10-09 17:55:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2024-10-09 17:55:29 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_planks": {
+    "criteria": {
+      "has_logs": "2024-10-09 17:55:21 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-10-09 17:55:29 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/jacaranda_sign": {
+    "criteria": {
+      "has_planks": "2024-10-09 17:55:29 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_stairs": {
+    "criteria": {
+      "has_planks": "2024-10-09 17:55:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-10-09 17:55:21 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-10-09 17:55:29 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-10-09 17:55:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2024-10-09 17:55:29 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_wood": {
+    "criteria": {
+      "has_log": "2024-10-09 17:55:21 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_door": {
+    "criteria": {
+      "has_planks": "2024-10-09 17:55:29 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 3953
+}
